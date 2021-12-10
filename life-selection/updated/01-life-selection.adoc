@@ -1,7 +1,9 @@
 == Selection from the Life of William Lewis
 
+[.centered]
 === A Letter of William Lewis
 
+[.salutation]
 My Dear Friend,
 
 When I consider the depth and strength of self-love in the fallen soul of man,
@@ -212,9 +214,14 @@ and rejecting every opinion and doctrine that was not built on this foundation.
 The Holy Scriptures were now perused with openness of heart,
 and laying aside all preconceived opinions, I was soon convinced of the following truths:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That the work of religion is wholly inward,
 and wrought by the operation of God`'s Holy Spirit.
 
+[.numbered]
 2+++.+++ That true worship is also inward,
 consisting principally in a humble prostration of spirit before the omnipresent Creator,
 who is the "`God of the spirits of all flesh;`"^
@@ -224,6 +231,7 @@ footnote:[Jeremiah 23:23]
 "`in whom we live, and move, and have our being.`"^
 footnote:[Acts 17:28]
 
+[.numbered]
 3+++.+++ That the Almighty God, in the riches of His mercy,
 has sown into the heart of every man a gift or measure of His living Word;
 a real seed of His heavenly divine nature.^
@@ -231,6 +239,7 @@ footnote:[Which can be resisted and rejected,
 or "`received with meekness`" unto the saving of the soul.
 See James 1:21; Matthew 13:3-9; John 1:9; Romans 1:19.]
 
+[.numbered]
 4+++.+++ That the arising of this "`incorruptible seed`" into a predominant power of life
 in the soul of man is as necessary for the true perception of spiritual things,
 as a participation in the human nature is necessary
@@ -242,12 +251,15 @@ This ought therefore to be reverently sought after and waited for,
 "`in the hope that they might find Him, though He is not far from each one of us.`"^
 footnote:[Acts 17:27]
 
+[.numbered]
 5+++.+++ That consequently, the faith to which all things are possible,
 is something of a much deeper nature than a mere
 assent of the judgment to truths or doctrines,
 or an agreement with what is called by many,
 the "`Gospel Plan of Salvation,`" or even with what
 is contained in the whole creed of systematic divinity.
+
+====
 
 The spiritual writings before alluded to were undoubtedly used
 of the Lord to bring greater clarity in these new convictions;
@@ -707,6 +719,7 @@ From this time onwards (the year 1795) I attended their meetings regularly,
 and about three years afterwards, on applying to be admitted as a member of the Society,
 I was received as such by the monthly meeting of my native city.
 
+[.signed-section-signature]
 William Lewis
 
 [.asterism]
@@ -729,8 +742,10 @@ from which the following two samples are extracted.
 [.asterism]
 '''
 
+[.letter-heading]
 To a Religiously Disposed Young Man.
 
+[.salutation]
 Dear Friend,
 
 The interest excited in my mind during the personal interactions
@@ -916,15 +931,19 @@ as being that which is able to build you up.
 May you be favored to increase in the strength of the Lord and in the power of His might,
 so as to stand in the evil day, and having done all, to stand.
 
+[.signed-section-closing]
 I affectionately bid you farewell,
 
+[.signed-section-signature]
 William Lewis
 
 [.asterism]
 '''
 
+[.letter-heading]
 To a Young Member of the Church of England
 
+[.salutation]
 Beloved friend,
 
 At an early period of your life,
@@ -1212,4 +1231,5 @@ May He never leave you nor forsake you, until He has done all that to you and fo
 which the first gentle whispers of His Spirit spoke to you of,
 and which you then did so earnestly desire.
 
+[.signed-section-signature]
 William Lewis
